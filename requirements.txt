@@ -1,0 +1,7 @@
+pandas==2.0.3
+numpy==1.23.5
+scipy==1.10.1
+numba==0.56.4
+statsmodels==0.13.5
+scikit-learn==1.2.2
+tensorflow==2.13.0
